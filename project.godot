@@ -20,6 +20,10 @@ window/size/viewport_width=4096
 window/size/viewport_height=1714
 window/stretch/mode="canvas_items"
 
+[dotnet]
+
+project/assembly_name="Space Game"
+
 [input]
 
 jump={
